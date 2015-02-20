@@ -1,5 +1,5 @@
 app.controller('MainController', ['$scope', function($scope) {
-  $scope.program=
+  $scope.program =
 	{
 	  series: "Sherlock",
 	  series_img: "img/sherlock.jpg",
